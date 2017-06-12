@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise05
+comment0.text=\n\ Exercise05\:\ Write\ a\ program\ that\ reads\ two\ integers.\ If\ their\ sum\ is\ greater\ than\ 10,\ \n\ print\ out\ "Greater\ than\ 10",\ otherwise\ if\ the\ sum\ is\ greater\ than\ 10\ print\ \n\ "Less\ than\ 10",\ otherwise\ print\ "The\ sum\ is\ 10"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

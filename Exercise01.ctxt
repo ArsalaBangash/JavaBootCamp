@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise01
+comment0.text=\n\ Exercise\ 01\:\ The\ following\ program\ should\ take\ in\ user\ input\ and\ print\ it\ out\ the\ \n\ terminal\ after\ the\ line\ "Hello\ World",\ which\ has\ already\ been\ printed\ out\ for\ you.\ \ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

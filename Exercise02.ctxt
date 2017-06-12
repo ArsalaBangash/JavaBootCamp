@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise02
+comment0.text=\n\ Exercise\ 02\:\ This\ exercsie\ will\ teach\ you\ about\ basic\ data\ types\ in\ Java.\ \n\ \n\ Declare\ 3\ variables\:\ one\ of\ type\ int,\ one\ of\ type\ double,\ and\ one\ of\ type\ String.\ \n\ You\ must\ then\ read\ the\ int,\ the\ double\ and\ the\ string\ from\ each\ line,\ and\ add\ them\ to\ \n\ i,\ d\ and\ s\ respectively.\ \n\ \n\ Finally,\ print\ the\ sums\ on\ 3\ seperate\ lines.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

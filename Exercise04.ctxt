@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise04
+comment0.text=\n\ Exercise04\:\ \n\ \n\ Given\ the\ meal\ price\ (base\ cost\ of\ a\ meal),\ tip\ percent\ (the\ percentage\ of\ \n\ the\ meal\ price\ being\ added\ as\ tip),\ and\ tax\ percent\ (the\ percentage\ of\ the\ meal\ \n\ price\ being\ added\ as\ tax)\ for\ a\ meal,\ find\ and\ print\ the\ meal's\ total\ cost.\n\ \n\ The\ tip\ and\ tax\ of\ the\ meal\ are\ calculated\ by\ multiplying\ the\ base\ cost\ of\ a\ meal\ by\n\ the\ relative\ tip\ and\ tax\ percentages.\ \n\ \n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

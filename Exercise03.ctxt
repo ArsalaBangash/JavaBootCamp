@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise03
+comment0.text=\n\ Exercise03\:\ Write\ a\ program\ that\ reads\ two\ integers\ from\ the\ console\ and\ prints\ \n\ out\ their\ sum\ and\ product.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
