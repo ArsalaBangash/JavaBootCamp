@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise08
+comment0.text=\n\ Write\ a\ program\ that\ reads\ a\ file\ containing\ integers,\ and\ prints\ out\ their\ sum.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
