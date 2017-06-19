@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise09
+comment0.text=\n\ In\ this\ exercise,\ you\ will\ be\ given\ a\ class\ that\ you\ have\ to\ write\ according\ to\ \n\ the\ following\ specifications\:\n\ \ 1.\ A\ person\ has\ an\ attribute\ called\ age,\ and\ a\ person\ is\ initialized\ with\ it's\ age.\n\ \ 2.\ The\ age\ has\ to\ be\ positive,\ and\ if\ a\ Person\ with\ a\ negative\ age\ is\ initialized,\ \n\ \ then\ print\ "Age\ is\ not\ valid,\ setting\ age\ to\ 0."\ to\ the\ console\ and\ set\ the\ age\ to\ 0\n\ \ 3.\ The\ yearPasses\ method\ for\ the\ person\ adds\ 1\ to\ the\ person's\ age.\ \n\ \ 4.\ The\ amIOld\ method\ should\ print\ a\ message\ out\ to\ the\ console\ depending\ on\ the\ \n\ \ person's\ age\:\n\ \ \ \ \ \ \ \ \ \ If\ Person\ is\ younger\ than\ 13,\ print\ "You\ are\ young"\n\ \ \ \ \ \ \ \ \ \ If\ Person\ is\ older\ than\ 13\ but\ younger\ than\ 18,\ print\ "You\ are\ a\ teenager"\n\ \ \ \ \ \ \ \ \ \ If\ Person\ is\ 18\ or\ older,\ print\ "You\ are\ old"\ \n\ \ Do\ not\ modify\ the\ code\ in\ the\ main\ function.\ It\ will\ be\ used\ to\ test\ correctness.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

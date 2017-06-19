@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise10
+comment0.text=\n\ Write\ a\ program\ that\ first\ reads\ n,\ the\ size\ of\ the\ array\ we\ want\ to\ create.\ Then\ proceed\ to\ read\ n\ integers\ \n\ from\ the\ console\ into\ the\ array\ and\ then\ print\ out\ all\ the\ integers\ from\ the\ array\ on\ seperate\ lines.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
