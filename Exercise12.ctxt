@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise12
+comment0.text=\n\ You're\ given\ a\ file\ filled\ with\ NBA\ players\ and\ their\ all\ time\ point\ totals.\ Create\ a\n\ HashMap\ that\ maps\ every\ player\ to\ their\ point\ totals.\ Then,\ using\ the\ provided\ array\ of\ \n\ players,\ try\ to\ get\ their\ point\ totals\ using\ your\ HashMap.\ \n\ \n\ If\ the\ player\ exists\ in\ the\ file,\ such\ as\ "Jordan",\ then\ print\ "Jordan\ has\ 32292\ points"\n\ If\ the\ player\ doesn't\ exist,\ like\ Durant\ then\ print\ "I\ don't\ know\ how\ many\ points\ Durant\ has"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
