@@ -25,12 +25,12 @@ public class Exercise04 {
         int taxPercent = scan.nextInt(); // tax percentage
         scan.close();
       
-        // Write your calculation code here.
+        //#TODO: Write your calculation code here.
       
-        // cast the result of the rounding operation to an int and save it as totalCost 
+        //#TODO: cast the result of the rounding operation to an int and save it as totalCost 
         int totalCost = (int) Math.round(0.00/*total cost in double*/);
       
-        // Print your result
+        //#TODO: Print your result
         System.out.println("The total meal cost is " + /*Concatenate total cost here*/ " dollars.");
     }
     

@@ -17,7 +17,7 @@ public class Exercise05 {
       int number2 = scan.nextInt();
       scan.close();
       
-      //Use IF-ELSE statements to determine what to print out to the console
+      //#TODO: Use IF-ELSE statements to determine what to print out to the console
         
     }
     

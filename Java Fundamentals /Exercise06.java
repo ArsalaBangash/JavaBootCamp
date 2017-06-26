@@ -18,17 +18,11 @@ public class Exercise06 {
       int n = scan.nextInt();
       System.out.println(n + " integers will be read");
       
-      //use a while loop to read n integers and find their sum
-      int i = 0;
-      int sum = 0;
-      while (i < n) {
-          sum += scan.nextInt(); 
-          i++;
-      }
+      //#TODO: use a while loop to read n integers and find their sum
       
       scan.close();
-      // Print out the sum of all read integers
-      System.out.println("The sum of all entered integers is " + sum);
+      //#TODO: Print out the sum of all read integers
+      System.out.println("The sum of all entered integers is ");
 
         
     }

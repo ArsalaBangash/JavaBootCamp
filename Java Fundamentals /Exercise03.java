@@ -16,9 +16,9 @@ public class Exercise03 {
       int number2 = scan.nextInt();
       scan.close();
       
-      //Print the sum out on a new line
+      //#TODO: Print the sum out on a new line
 
-      //Print the product out on a new line
+      //#TODO: Print the product out on a new line
 
 
    }

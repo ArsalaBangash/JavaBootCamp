@@ -13,7 +13,7 @@ public class Exercise08 {
     public static void main(String[] args) {  
       //Initializes the file and scanner 
       Scanner scan = null;
-      //Enter the file path for your chosen file. 
+      //#TODO: Enter the file path for your chosen file. 
       File file = new File("Enter file path here");
       try {
          scan = new Scanner(file);
@@ -23,9 +23,9 @@ public class Exercise08 {
       }
       System.out.println("File found.");
       
-     //Loop through the file and add up all integers in the file
+     //#TODO: Loop through the file and add up all integers in the file
         
-      //Print the total sum
+      //#TODO: Print the total sum
       
       //close the scanner
       scan.close();

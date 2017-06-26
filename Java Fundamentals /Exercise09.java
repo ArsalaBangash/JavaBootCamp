@@ -40,16 +40,16 @@ class Person {
     private int age;    
   
     public Person(int initialAge) {
-        //Initialize the age 
+        //#TODO: Initialize the age 
     }
 
     public void amIOld() {
         String ageMessage = "";
-        //Modify the ageMessage based on the current age
+        //#TODO: Modify the ageMessage based on the current age
         System.out.println(ageMessage);
     }
 
     public void yearPasses() {
-        //Make the person 1 year older
+        //#TODO: Make the person 1 year older
     }
 }

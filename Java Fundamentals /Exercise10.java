@@ -14,11 +14,11 @@ public class Exercise10 {
         //Initializes the scanner and reads the amount of elements to be read into the array
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
-        //TODO: Create an array of integers of size n 
+        //#TODO: Create an array of integers of size n 
         for(int i=0; i < n; i++){
-            //TODO: Read n integers from the console into the array
+            //#TODO: Read n integers from the console into the array
         }
-        //TODO: Loop through the array and print out all the elements in the array 
+        //#TODO: Loop through the array and print out all the elements in the array 
         scan.close();
     }
     

@@ -13,7 +13,7 @@ public class Exercise07 {
     public static void main(String[] args) {
       //Initializes the file and scanner 
       Scanner scan = null;
-      //Enter the file path for your chosen file. 
+      //#TODO: Enter the file path for your chosen file. 
       File file = new File("Enter File Path here");
       try {
          scan = new Scanner(file);
@@ -23,8 +23,8 @@ public class Exercise07 {
       }
       System.out.println("File found.");
       
-      //Read the contents of the file one line at a time and print the contents of 
-      //each line to the terminal 
+      /*#TODO: Read the contents of the file one line at a time and print the contents of 
+      each line to the terminal*/
       
       //close the scanner
       scan.close();
